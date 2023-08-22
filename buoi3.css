@@ -1,0 +1,52 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.information_bitc{
+}
+.logo_bitc{
+    width: 130px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.title_bitc{
+    font-weight: 500;
+    text-align: center;
+}
+.para_bitc{
+    color: gray;
+    text-align: center;
+}
+.link{
+    list-style-type: none;
+    display: flex;
+    justify-content:center;
+}
+.link_icon_fb,.link_icon_yt{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: black;
+    margin:0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      
+}
+.link_icon_fb:hover, .link_icon_yt:hover{
+    background-color: blueviolet;
+}
+.linkhref{
+    text-decoration: none;
+    color: white;
+
+}
+.fa-brands{
+    margin-right: 5px;
+}
+.more{
+color: black;
+margin-left: 49%;
+}
+
